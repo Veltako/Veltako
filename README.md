@@ -9,7 +9,6 @@
 
 <h3 align="left">Mes réseaux:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/veltako-the-builder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/veltako-the-builder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/baptiste-dupache-170640258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baptiste-dupache-170640258/" height="30" width="40" /></a>
 </p>
 
