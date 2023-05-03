@@ -1,10 +1,8 @@
 <h1 align="center">Salut 👋, Je m'appelle Baptiste</h1>
 <h3 align="center">En formation Développeur Web</h3>
 
-- 🤝 J'ai fait mon portfolio [Porfolio](https://github.com/Veltako/PortfolioV2)
-
-- 👨‍💻 Tout mes projets sont disponible sur mon portfolio [https://portfoliodupache.netlify.app/](https://portfoliodupache.netlify.app/)
-
+- 🤝 J'ai fait mon portfolio [Porfolio](http://baptistedupache.com/)
+- 
 - 📫 Me contacter par mail **baptistedupache@gmail.Com**
 
 <h3 align="left">Mes réseaux:</h3>
