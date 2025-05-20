@@ -53,8 +53,8 @@
 
 ## 📫 Me contacter
 
+- LinkedIn : [Baptiste Dupache](https://www.linkedin.com/feed/)
 - GitHub : [@Veltako](https://github.com/Veltako)
-- [Mon LinkedIn](https://www.linkedin.com/feed/)
 
 ---
 
