@@ -63,6 +63,6 @@
 ## 🧭 En ce moment...
 
 ```txt
-📚 Apprentissage : Unity, C++, IA dans les jeux
-🔨 En projet : Combats réalistes avec CryEngine
-🎯 Objectif : Devenir développeur logiciel jeu/IA
+📚 Apprentissage : Unity, C#, IA dans les jeux
+🔨 En projet : Jeu avec 3D avec Unity 6
+🎯 Objectif : Devenir développeur logiciel
