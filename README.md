@@ -40,7 +40,7 @@
 |--------|-------------|------|
 | 🎮 [Frontend Phasmophobia Demo](https://github.com/Veltako/Phasmophobia-Demo-React-TypeScript) | Démo d’un site vitrine pour un jeu, en solo, sans base en React | React, TypeScript |
 | 🌐 [Backend Phasmophobia](https://github.com/Veltako/backend) | API réalisée avec Strapi pour connecter le frontend | Node.js, Strapi |
-| 🧱 [Coblock Mod](https://github.com/Veltako/CoblockMod) | Mod Minecraft créé sans expérience Java ni 3D | Java, Forge |
+| 🧱 [Coblock Mod](https://github.com/Veltako/CoblockMod-ModMinecraft) | Mod Minecraft créé sans expérience Java ni 3D | Java, Forge |
 
 ---
 
