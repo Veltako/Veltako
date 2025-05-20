@@ -17,6 +17,7 @@
 ## 🧠 Compétences principales
 
 ### 🔵 Frontend
+- Angular / TypeScript
 - React / TypeScript
 - HTML / CSS / JS
 - Bootstrap, Tailwind
