@@ -54,6 +54,7 @@
 
 ## 📫 Me contacter
 
+- Email : baptistedupache@gmail.com
 - LinkedIn : [Baptiste Dupache](https://www.linkedin.com/feed/)
 - GitHub : [@Veltako](https://github.com/Veltako)
 
