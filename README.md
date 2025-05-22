@@ -41,6 +41,8 @@
 | 🎮 [Frontend Phasmophobia Demo](https://github.com/Veltako/Phasmophobia-Demo-React-TypeScript) | Démo d’un site vitrine pour un jeu, en solo, sans base en React | React, TypeScript |
 | 🌐 [Backend Phasmophobia](https://github.com/Veltako/backend) | API réalisée avec Strapi pour connecter le frontend | Node.js, Strapi |
 | 🧱 [Coblock Mod](https://github.com/Veltako/CoblockMod-ModMinecraft) | Mod Minecraft créé sans expérience Java ni 3D | Java, Forge |
+| 🎮 [Frontend Marché Direct](https://github.com/Veltako/Marche_Direct_Frontend) | Démo d’un site e-commerce, en équipe | Angular, TypeScript |
+| 🌐 [Backend Marché Direct](https://github.com/Veltako/Marche_Direct_Backend) | API réalisée avec Symfony pour connecter le frontend | Symfony 6.4, API Platform, PHP 8.1 |
 
 ---
 
